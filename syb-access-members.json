@@ -1,0 +1,45 @@
+﻿{
+    "app":  "SYB",
+    "version":  1,
+    "exportedAt":  "2026-06-14T19:21:53.1823239Z",
+    "members":  [
+                    {
+                        "id":  "3618e6c9-b6a7-4d99-bb7c-09157535284d",
+                        "name":  "Mahdi",
+                        "email":  "mahdi97personal@gmail.com",
+                        "licenseKey":  "SYB-X4WU-VT5W-PBKB",
+                        "status":  "active",
+                        "active":  true,
+                        "plan":  "vault-30-day",
+                        "expiresAt":  "2026-07-14T22:59:59.999Z",
+                        "features":  [
+                                         "vault",
+                                         "launch_lab",
+                                         "syb_tools",
+                                         "content",
+                                         "exports"
+                                     ],
+                        "createdAt":  "2026-06-14T18:24:58.395Z",
+                        "updatedAt":  "2026-06-14T18:24:58.395Z"
+                    },
+                    {
+                        "id":  "654b5bad-160c-451c-8d47-4a487229447b",
+                        "name":  "mahdi",
+                        "email":  "mahdi97personal@gamil.com",
+                        "licenseKey":  "SYB-UXEB-ADBL-DEBH",
+                        "status":  "active",
+                        "active":  true,
+                        "plan":  "vault-30-day",
+                        "expiresAt":  "2026-07-14T23:59:59.0000000Z",
+                        "features":  [
+                                         "vault",
+                                         "launch_lab",
+                                         "syb_tools",
+                                         "content",
+                                         "exports"
+                                     ],
+                        "createdAt":  "2026-06-14T19:21:53.1678004Z",
+                        "updatedAt":  "2026-06-14T19:21:53.1678004Z"
+                    }
+                ]
+}
